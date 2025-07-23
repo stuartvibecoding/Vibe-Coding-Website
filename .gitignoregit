@@ -1,0 +1,10 @@
+node_modules/
+add
+.gitignoregit
+commit
+-m
+Ignore node_modules
+git
+push
+origin
+main

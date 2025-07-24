@@ -17,7 +17,7 @@ export default function Home() {
             A welcoming space for makers, dreamers, and the simply curious to explore AI-assisted coding—together.
           </p>
           <Link
-            href="https://www.meetup.com/stuart-vibe-coding/"
+            href="https://www.meetup.com/stuart-vibe-coding-community/"
             aria-label="Join the Meetup"
             className="inline-block bg-white text-emerald-700 font-semibold px-8 py-3 rounded-lg shadow hover:bg-emerald-50 transition"
           >

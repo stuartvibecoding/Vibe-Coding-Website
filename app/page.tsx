@@ -14,7 +14,7 @@ export default function Home() {
             Where creativity meets AI-powered code.
           </p>
           <p className="text-white/90 mb-8">
-            A welcoming space for makers, dreamers, and the simply curious to explore AI-assisted coding—together.
+            A welcoming space for makers, dreamers, and the technologically curious to explore AI-assisted coding—together.
           </p>
           <Link
             href="https://www.meetup.com/stuart-vibe-coding-community/"

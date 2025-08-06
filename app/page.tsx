@@ -1,9 +1,19 @@
 // app/page.tsx
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Home() {
   return (
     <main>
+      {/* Banner Image */}
+      <Image
+        src="/hero-bg.jpg"
+        alt="Stuart Vibe Coding Community Banner"
+        width={1920}
+        height={320}
+        style={{ width: '100%', height: 'auto' }}
+        priority
+      />
       {/* Hero Section */}
       <section className="bg-gradient-to-br from-emerald-500 to-teal-500 py-20">
         <div className="max-w-4xl mx-auto text-center px-4">
